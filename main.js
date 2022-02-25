@@ -18,7 +18,7 @@ function load_img(){
 		hole_obj = Img;
 		hole_obj.scaleToWidth(50);
 		hole_obj.scaleToHeight(50);
-		hole__obj.set({
+		hole_obj.set({
 			top: hole_y, 
 			left: hole_x
 		});
